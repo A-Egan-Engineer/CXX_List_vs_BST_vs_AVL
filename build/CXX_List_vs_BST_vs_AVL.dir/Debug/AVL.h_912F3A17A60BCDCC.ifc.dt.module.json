@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "CXX_List_vs_BST_vs_AVL.dir\\Debug\\AVL.obj",
+            "outputs": [
+                "CXX_List_vs_BST_vs_AVL.dir\\Debug\\AVL.h_912F3A17A60BCDCC.ifc.dt.module.json",
+                "CXX_List_vs_BST_vs_AVL.dir\\Debug\\AVL.h_912F3A17A60BCDCC.ifc.dt.d.json",
+                "CXX_List_vs_BST_vs_AVL.dir\\Debug\\AVL.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "C:\\Users\\aegan\\Documents\\GitHub\\CXX_List_vs_BST_vs_AVL\\Headers\\AVL.h",
+                    "source-path": "c:\\users\\aegan\\documents\\github\\cxx_list_vs_bst_vs_avl\\headers\\avl.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

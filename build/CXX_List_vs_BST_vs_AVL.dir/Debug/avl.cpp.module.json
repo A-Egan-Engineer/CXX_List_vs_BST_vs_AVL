@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "CXX_List_vs_BST_vs_AVL.dir\\Debug\\AVL.obj",
+            "outputs": [
+                "C:\\Users\\aegan\\Documents\\GitHub\\CXX_List_vs_BST_vs_AVL\\build\\CXX_List_vs_BST_vs_AVL.dir\\Debug\\vc145.pdb",
+                "CXX_List_vs_BST_vs_AVL.dir\\Debug\\"
+            ],
+            "requires": []
+        }
+    ]
+}

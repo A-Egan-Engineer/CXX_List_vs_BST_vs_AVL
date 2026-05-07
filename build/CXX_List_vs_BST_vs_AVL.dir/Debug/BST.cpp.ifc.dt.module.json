@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "CXX_List_vs_BST_vs_AVL.dir\\Debug\\BST.obj",
+            "outputs": [
+                "CXX_List_vs_BST_vs_AVL.dir\\Debug\\BST.cpp.ifc.dt.module.json",
+                "CXX_List_vs_BST_vs_AVL.dir\\Debug\\BST.cpp.ifc.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

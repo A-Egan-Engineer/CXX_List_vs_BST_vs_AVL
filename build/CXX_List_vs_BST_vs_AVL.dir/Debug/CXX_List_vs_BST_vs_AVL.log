@@ -1,0 +1,12 @@
+﻿  Building Custom Rule C:/Users/aegan/Documents/GitHub/CXX_List_vs_BST_vs_AVL/CMakeLists.txt
+  Scanning sources for module dependencies...
+  AVL.cpp
+  DataInsertion.cpp
+  BST.cpp
+  main.cpp
+  Compiling...
+  BST.cpp
+  main.cpp
+  DataInsertion.cpp
+  AVL.cpp
+  CXX_List_vs_BST_vs_AVL.vcxproj -> C:\Users\aegan\Documents\GitHub\CXX_List_vs_BST_vs_AVL\build\Debug\CXX_List_vs_BST_vs_AVL.exe

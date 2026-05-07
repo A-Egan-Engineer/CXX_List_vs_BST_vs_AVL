@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "CXX_List_vs_BST_vs_AVL.dir\\Debug\\DataInsertion.obj",
+            "outputs": [
+                "CXX_List_vs_BST_vs_AVL.dir\\Debug\\DataInsertion.h_E5299CD9EDA1FD5C.ifc.dt.module.json",
+                "CXX_List_vs_BST_vs_AVL.dir\\Debug\\DataInsertion.h_E5299CD9EDA1FD5C.ifc.dt.d.json",
+                "CXX_List_vs_BST_vs_AVL.dir\\Debug\\DataInsertion.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "C:\\Users\\aegan\\Documents\\GitHub\\CXX_List_vs_BST_vs_AVL\\Headers\\DataInsertion.h",
+                    "source-path": "c:\\users\\aegan\\documents\\github\\cxx_list_vs_bst_vs_avl\\headers\\datainsertion.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\aegan\\documents\\github\\cxx_list_vs_bst_vs_avl\\cpp files\\avl.cpp",
+        "ProvidedModule": "",
+        "Includes": [
+            "c:\\users\\aegan\\documents\\github\\cxx_list_vs_bst_vs_avl\\headers\\avl.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
